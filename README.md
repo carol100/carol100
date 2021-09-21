@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @carol100
-- 👀 I’m interested in developing solutions
-- 🌱 I’m currently learning Laravel + Kotlin ...
+- 👋 Hi, I’m Caroline
+- 👀 I’m learning to unlearn, relearn to learn
+- 🌱 I’m currently learning Laravel Kotlin ...
 - 💞️ I’m looking to collaborate on everything Dev!...
 - 📫 How to reach me @carol100
 
